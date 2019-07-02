@@ -1,9 +1,5 @@
 /**/
 
-body{
-  background-image: url(https://vitorvictor.files.wordpress.com/2017/01/colorcycling_gif1.gif) no-repeat;
-}
-
 #camera{
   margin-top: 5%;
   margin-bottom: 5%;
@@ -27,4 +23,15 @@ h1{
 }
 .btn{
   background-color: transparent;
+}
+img{
+  width: 50%;
+}
+label{
+  width:120px;
+}
+span{
+  width: 25px;
+  font-family: arial;
+  font-style: regular-bold, sans-serif;
 }
